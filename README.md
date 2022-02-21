@@ -1,7 +1,7 @@
 # Water-desktop
 A simple desktop that is based on the watery design but is very different from the Aqua Desktop Environment.
 
-The stable and unstable releases are found here:https://github.com/dgrtygry/Water-desktopreleases
+The stable and unstable releases are found here:https://github.com/dgrtygry/Water-desktop/releases
 
 The bleeding edge releases are found here:https://mega.nz/folder/aX5ihDCB#2rZ9ez39amrwi39SfOTOxw
 
@@ -29,7 +29,7 @@ Instructions:
 
 The bleeding edge releases are found here:https://mega.nz/folder/aX5ihDCB#2rZ9ez39amrwi39SfOTOxw
 
-The stable and unstable releases are found here:https://github.com/dgrtygry/Water-desktopreleases
+The stable and unstable releases are found here:https://github.com/dgrtygry/Water-desktop/releases
 
 3:Unpack the sdk and follow the instructions.
 
